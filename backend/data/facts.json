@@ -1,0 +1,22 @@
+{
+    "full_name": "Kena Girma",
+    "name": "Kena",
+    "current_role": "Founder & Lead Engineer at Zulu Tech",
+    "location": "Addis Ababa, Ethiopia",
+    "email": "info@zulu-tech.com",
+    "linkedin": "https://www.linkedin.com/in/kena-girma-608729228/",
+    "specialties": [
+      "AI & Automation Systems",
+      "Full-Stack Web Development",
+      "Startup Product Architecture"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Bachelor's Degree in Computer Science",
+        "institution": "Addis Ababa University",
+        "year": "2020"
+      }
+    ]
+  }
+  
